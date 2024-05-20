@@ -1,0 +1,64 @@
+﻿/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#header-content {
+    text-align: center;
+}
+#ImageButton1, #DropDownList1, #DropDownList2, #TextBox1, #Button1, #Button2 {
+    display: inline-block;
+    margin-right: 10px;
+    align-self: center;
+    margin:auto;
+}
+/* Header Styles */
+/*#Image1 {
+    display: block;
+    margin: 0 auto;
+}
+
+#ImageButton1 {
+    margin: 10px;
+}
+
+#DropDownList1, #DropDownList2, #TextBox1 {
+    margin: 10px;
+    
+    
+}
+
+#Button1 {
+    margin: 10px;
+    background-color: #df052b;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#HyperLink1, #HyperLink2, #HyperLink3 {
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+#Button2 {
+    margin: 10px;
+    background-color: #df052b;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}*/
+
+/* Content Styles */
+/*#ContentPlaceHolder1 {
+    padding: 20px;
+}*/
+
+/* Footer Styles */
+/* Add styles for the left and right panels in the footer if needed */
+

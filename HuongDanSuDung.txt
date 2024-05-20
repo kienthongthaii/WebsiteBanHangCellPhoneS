@@ -1,0 +1,5 @@
+DataBase chứa csdl của website
+21_NguyenTrungKien_WebsiteBanHangCellPhoneS_Code chứa code của Web
+tài khoản và mật khẩu đăng nhập : 
+username : ql
+password : 1
